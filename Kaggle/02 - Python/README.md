@@ -11,4 +11,4 @@ Topics:
 
 This course served as a refresher and was done for the sake of completeness.
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/2%20-%20Python/Certificate%20-%20Python.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/02%20-%20Python/Certificate%20-%20Python.png)
