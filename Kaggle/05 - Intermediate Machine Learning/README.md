@@ -8,4 +8,4 @@ Topics:
 - Gradient boosting and XGBoost
 - Data leakage (target leakage and train-test contamination)
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/5%20-%20Intermediate%20Machine%20Learning/Certificate%20-%20Intermediate%20Machine%20Learning.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/05%20-%20Intermediate%20Machine%20Learning/Certificate%20-%20Intermediate%20Machine%20Learning.png)
