@@ -8,4 +8,4 @@ Topics:
 - Underfitting and overfitting (model performance fine-tuning)
 - Random Forests (averaging the predictions of multiple decision trees)
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/3%20-%20Intro%20to%20Machine%20Learning/Certificate%20-%20Intro%20to%20Machine%20Learning.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/03%20-%20Intro%20to%20Machine%20Learning/Certificate%20-%20Intro%20to%20Machine%20Learning.png)
