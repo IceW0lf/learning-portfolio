@@ -12,7 +12,7 @@ The pseudonym matches my GitHub identity and the repository entries represent my
 This repository will continue to grow as I pursue further study and certifications.
 
 ## Kaggle
-Kaggle is XYZ.
+[Kaggle](https://www.kaggle.com/) is an online community for data science and machine learning. Its users can publish and find datasets, explore and build models, and enter competitions to solve data science challenges. It also features a suite of [learning courses](https://www.kaggle.com/learn) with certification upon completion.
 
 [Intro to Programming](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/01%20-%20Intro%20to%20Programming#readme)<br>
 [Python](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/02%20-%20Python#readme)<br>
