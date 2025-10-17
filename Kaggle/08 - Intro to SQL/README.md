@@ -10,4 +10,4 @@ Topics:
 
 This course served as a refresher and was done for the sake of completeness.
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/8%20-%20Intro%20to%20SQL/Certificate%20-%20Intro%20to%20SQL.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/08%20-%20Intro%20to%20SQL/Certificate%20-%20Intro%20to%20SQL.png)
