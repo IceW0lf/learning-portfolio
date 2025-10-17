@@ -2,11 +2,11 @@ This course covered basic SQL syntax.
 
 Topics:
 - BigQuery (Google service allowing the application of SQL to datasets)
-- Dataset examination with SELECT, FROM, and WHERE
-- Data selection with GROUP BY, HAVING, and COUNT
-- Data ordering with ORDER BY
-- Improving data readability with AS and WITH
-- Combining data sources with JOIN
+- SELECT, FROM, and WHERE (dataset examination)
+- GROUP BY, HAVING, and COUNT (data selection)
+- ORDER BY (data ordering)
+- AS and WITH (improving data readability)
+- JOIN (combining data sources)
 
 This course served as a refresher and was done for the sake of completeness.
 
