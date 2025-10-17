@@ -10,6 +10,7 @@ For privacy reasons the listed certifications and courses were completed under t
 The pseudonym matches my GitHub identity and the repository entries represent my genuine learning.
 
 This repository will continue to grow as I pursue further study and certifications.
+
 ---
 ## Certificates
 ### Kaggle
