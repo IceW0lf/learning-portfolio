@@ -8,4 +8,4 @@ Topics:
 - Distributions (histograms, density (KDE) plots, and 2D KDE plots)
 - Plot type selection and custom styles
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/6%20-%20Data%20Visualization/Certificate%20-%20Data%20Visualization.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/06%20-%20Data%20Visualization/Certificate%20-%20Data%20Visualization.png)
