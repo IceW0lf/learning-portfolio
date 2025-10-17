@@ -2,7 +2,7 @@
 
 This repository showcases my ongoing professional development.
 
-The purpose of this repository:
+Purpose of this repository:
 - Document my completed online courses and certifications
 - Provide brief insights into covered topics and key skills
 
