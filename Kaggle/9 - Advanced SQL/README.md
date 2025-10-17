@@ -1,6 +1,9 @@
-This course covered XYZ.
+This course expanded upon the previous intro and covered advanced SQL syntax.
 
 Topics:
-- ABC
+- JOIN types and UNION (combine information from multiple tables)
+- Analytic functions (calculations on a selected set of data)
+- Nested and repeated data
+- Writing efficient queries
 
-![alt text](URL)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/9%20-%20Advanced%20SQL/Certificate%20-%20Advanced%20SQL.png)
