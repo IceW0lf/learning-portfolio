@@ -11,7 +11,6 @@ The pseudonym matches my GitHub identity and the repository entries represent my
 
 This repository will continue to grow as I pursue further study and certifications.
 
----
-# Certificates
 ## Kaggle
+Kaggle is XYZ.
 [Intro to Programming](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/01%20-%20Intro%20to%20Programming#readme)
