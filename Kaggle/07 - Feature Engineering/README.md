@@ -8,4 +8,4 @@ Topics:
 - Principal component analysis
 - Target encoding
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/7%20-%20Feature%20Engineering/Certificate%20-%20Feature%20Engineering.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/07%20-%20Feature%20Engineering/Certificate%20-%20Feature%20Engineering.png)
