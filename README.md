@@ -14,8 +14,7 @@ This repository will continue to grow as I pursue further study and certificatio
 ## Kaggle
 Kaggle is XYZ.
 
-[Intro to Programming](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/01%20-%20Intro%20to%20Programming#readme)
-
+[Intro to Programming](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/01%20-%20Intro%20to%20Programming#readme)<br>
 [Python](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/02%20-%20Python#readme)
 
 [Intro to Machine Learning](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/03%20-%20Intro%20to%20Machine%20Learning#readme)
