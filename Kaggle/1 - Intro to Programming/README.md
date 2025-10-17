@@ -8,3 +8,4 @@ Topics:
 - Intro to Lists (organize data to work efficiently)
 
 This course served as a refresher and was done for the sake of completeness.
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/1%20-%20Intro%20to%20Programming/Certificate%20-%20Intro%20to%20Programming.png?raw=true)
