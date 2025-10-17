@@ -6,4 +6,4 @@ Topics:
 - Nested and repeated data
 - Writing efficient queries
 
-![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/9%20-%20Advanced%20SQL/Certificate%20-%20Advanced%20SQL.png)
+![alt text](https://github.com/IceW0lf/learning-portfolio/blob/main/Kaggle/09%20-%20Advanced%20SQL/Certificate%20-%20Advanced%20SQL.png)
