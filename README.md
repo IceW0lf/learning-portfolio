@@ -13,7 +13,7 @@ This repository will continue to grow as I pursue further study and certificatio
 
 ## Kaggle
 [Kaggle](https://www.kaggle.com/) is an online community for data science and machine learning. Its users can publish and find datasets, build and explore models, and enter competitions to solve data science challenges in a web-based environment. It also features a suite of [learning courses](https://www.kaggle.com/learn), each providing certification upon completion.
-### My certificates
+### My Kaggle certificates:
 [Intro to Programming](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/01%20-%20Intro%20to%20Programming#readme)<br>
 [Python](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/02%20-%20Python#readme)<br>
 [Intro to Machine Learning](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/03%20-%20Intro%20to%20Machine%20Learning#readme)<br>
