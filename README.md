@@ -27,3 +27,4 @@ This repository will continue to grow as I pursue further study and certificatio
 [Computer Vision](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/11%20-%20Computer%20Vision#readme)<br>
 [Time Series](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/12%20-%20Time%20Series#readme)<br>
 [Data Cleaning](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/13%20-%20Data%20Cleaning#readme)<br>
+[Intro to AI Ethics](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/14%20-%20Intro%20to%20AI%20Ethics#readme)<br>
