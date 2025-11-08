@@ -28,3 +28,4 @@ This repository will continue to grow as I pursue further study and certificatio
 [Time Series](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/12%20-%20Time%20Series#readme)<br>
 [Data Cleaning](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/13%20-%20Data%20Cleaning#readme)<br>
 [Intro to AI Ethics](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/14%20-%20Intro%20to%20AI%20Ethics#readme)<br>
+[Geospatial Analysis](https://github.com/IceW0lf/learning-portfolio/tree/main/Kaggle/15%20-%20Geospatial%20Analysis#readme)<br>
