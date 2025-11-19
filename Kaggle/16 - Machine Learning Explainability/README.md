@@ -1,7 +1,6 @@
 This course covered how to extract understandable insights from machine learning models.
 
 Topics:
-- Types of insights
 - Value of insights (debugging, feature engineering, data collection, human decision-making, and building trust)
 - Permutation Importance (measurement of feature importance)
 - Partial Dependence Plots (show a feature's effect on predictions in general)
